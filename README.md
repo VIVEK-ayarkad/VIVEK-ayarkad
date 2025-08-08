@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.jpg" width="400" alt="Colorful Coding Banner"/>
+  <img src="./asset/VK.jpeg" width="400" alt="Colorful Coding Banner"/>
 </p>
 
 <!-- Typing Animation -->
