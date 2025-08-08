@@ -49,7 +49,7 @@
 ---
 
 ## 🎯 Fun Fact  
-> "Code is like humor. When you have to explain it, it’s bad."
+> ""Hello World!" — Every coder’s first victory"
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmNnYjJ2ejA2eHV3MzIwdWVzcm93N2g2ZG1kOG85enVjM3k3b2hhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
