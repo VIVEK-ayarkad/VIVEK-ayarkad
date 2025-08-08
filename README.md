@@ -52,5 +52,6 @@
 > "Code is like humor. When you have to explain it, it’s bad."
 
 <p align="center">
-  <img src="./assets/about.jpg" width="300"/>
+  <img src="./assets/vibe.png" width="300"/>
 </p>
+
