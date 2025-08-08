@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me  
-<img align="right" alt="Coding" width="350" src="./assets/about.jpg" />
+<img align="right" alt="Coding" width="350" src="./asset/about.png" />
 
 - 💻 **Full-stack developer** passionate about building secure, scalable applications  
 - 🛡 **Cybersecurity enthusiast** exploring ethical hacking & threat analysis  
