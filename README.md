@@ -1,11 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.jpg" width="800" alt="Colorful Coding Banner"/>
+  <img src="./assets/banner.jpg" width="400" alt="Colorful Coding Banner"/>
 </p>
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Python+%7C+C+%7C+C%2B%2B+%7C+Java;React+%7C+Node.js+%7C+Docker;MongoDB+%7C+MySQL+Expert;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Python+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
 ---
