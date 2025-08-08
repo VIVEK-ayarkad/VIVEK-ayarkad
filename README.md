@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./asset/VK.jpeg" width="400" alt="Colorful Coding Banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmc3ZXYwY2czY3dlcXZ1d2kxZ25tZDRwam51MWZpbzBibTV0N28weCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Colorful Coding Banner"/>
 </p>
 
 <!-- Typing Animation -->
@@ -52,6 +52,6 @@
 > "Code is like humor. When you have to explain it, it’s bad."
 
 <p align="center">
-  <img src="./assets/vibe.png" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmNnYjJ2ejA2eHV3MzIwdWVzcm93N2g2ZG1kOG85enVjM3k3b2hhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+  <img src="./asset/vibe.png" width="300"/>
 </p>
-
